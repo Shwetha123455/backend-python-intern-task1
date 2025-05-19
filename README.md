@@ -1,3 +1,4 @@
+Internship Assignment: Python Modeling of a Mobius-Inspired 3D Structure
 1.Create a virtual environment:
 python3 -m venv venv
 
