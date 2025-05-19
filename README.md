@@ -14,8 +14,8 @@ pip freeze > requirements.txt
 5.Project Structure
 Folder name : MOBIUS_PROJECT
 INSIDE THE FOLDER Create 
- venv
- mobius_strip.py
+ venv,
+ mobius_strip.py,
  requirements.txt
 
 6.Then simply run : mobius_strip.py
