@@ -20,7 +20,7 @@ INSIDE THE FOLDER Create
 
 6.Then simply run : mobius_strip.py
 
-7. You will obtain 
+7. You will obtain output
 Approximated Surface Area: 1.88673
 Approximated Edge Length: 12.60154 with 3D Plot at a time
 
